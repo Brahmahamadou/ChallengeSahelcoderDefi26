@@ -1,0 +1,123 @@
+body{
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    background-color: #000000;
+}
+.partie1{
+    background-image: url(TWK-FP-0002R2.jpg);
+    width: 80rem;
+    height: 50rem;
+}
+.topnav a {
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a.active {
+    color: #f4c505;
+    font-weight: bold;
+  }
+  .topnav a.color {
+    color: white;
+    font-weight: bold;
+  }
+  .topnav .icon {
+    display: none;
+  }
+  .topnav {
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+    height: 4rem;
+    align-items: center;
+  }
+  .a button{
+    width: 100px;
+    height: 1.5rem;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-top: 12px;
+    color: white;
+    position: absolute;
+    margin-top: -6px;
+    margin-left: 7rem;
+    border-color: #f4c505;
+    background-color: transparent;
+  }
+  .fa-clapperboard{
+    color: #f4c505;
+    position: absolute;
+    margin-right: 60rem;
+  }
+  .cont{
+    color: white;
+    margin-left: 10rem;
+    font-size: 50px;
+    margin-top: 5rem;
+    font-weight: bold;
+  }
+  .afr{
+    color: #f4c505;
+  }
+  .best{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .cercl{
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+  }
+  .cercle{
+    width: 100px;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: #f4c505;
+  }
+  .carde1{
+    width: 200px;
+    height: 320px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+  }
+  .lescardes{
+    display: flex;
+    justify-content: center;
+    
+  }
+  .carde1 img{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+  }
+  .ligne{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -12px;
+  }
+  .movi{
+    width: 42px;
+    height: 20px;
+    border: 1px solid;
+    border-color: #f4c505;
+    color: #f4c505;
+  }
+  .bu{
+    display: flex;
+    justify-content: space-between;
+  }
+  .icon{
+    color: #f4c505;
+  }
+  .partie2 p{
+    color: white;
+  }
+  .fa-magnifying-glass{
+    position: absolute;
+    margin-left: 5rem;
+    color: #f4c505;
+  }
